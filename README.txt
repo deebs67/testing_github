@@ -1,2 +1,3 @@
 This is a test text file
-Here is an additional line which I've just added.
+Note that to generate a venv 'requirements.txt' file you need to type, at a command prompt
+pip freeze > requirements.txt
